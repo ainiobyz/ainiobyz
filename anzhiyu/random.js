@@ -1,0 +1,1 @@
+var posts=["2023/04/22/AnZhiYu主题安装文档（一）/","2023/04/22/hello-world/","2023/01/26/微标细用使用教程/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
